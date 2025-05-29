@@ -11,4 +11,4 @@ I'm building this site to document what I learn as a software engineering studen
 
 ## My Motivations
 
-I have the privilege of speaking Spanish as a my native language, and I want to contribute content in Spanish as it can be challenging to find relevant software development resources in Spanish as it is in English, and I hope to help bridge that gap.
+I have the privilege of being a native Spanish speaker, and I've noticed that the software development world is heavily English-centric. Resources, documentation, and learning materials are predominantly available in English. By creating content in Spanish, I hope to contribute to the Spanish-speaking developer community and help bridge that gap.

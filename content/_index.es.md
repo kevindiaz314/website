@@ -11,4 +11,6 @@ He creado este sitio para documentar lo que aprendo como estudiante de ingenier�
 
 ## Mis Motivaciones
 
-Tengo el privilegio de hablar español como mi lengua materna, y quiero contribuir con contenido en español, ya que he notado que es más difícil encontrar recursos relevantes de desarrollo de software en español que en inglés, y espero ayudar a cerrar esa brecha.
+Tengo el privilegio de ser hispanohablante nativo y he notado que el mundo del desarrollo de software está centrado en el inglés.
+Los recursos, la documentación y los materiales de aprendizaje están predominantemente disponibles en ese idioma.
+Al crear contenido en español, espero contribuir a la comunidad de desarrolladores hispanohablantes y ayudar a reducir esa brecha.
