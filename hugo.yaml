@@ -1,4 +1,5 @@
 # Hugo configuration file
+baseURL: "https://kev314.dev/"
 title: Kev314
 
 languages:
@@ -47,17 +48,17 @@ module:
   imports:
     - path: github.com/imfing/hextra
 
-# Page edit URL
+
 params:
+  # Page edit URL for GitHub
   editURL:
     enable: true
     base: "https://github.com/kevindiaz314/website/edit/main"
 
-# Last page modification
-# Parse Git commit
-enableGitInfo: true
-
-params:
   # Display the last modification date
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
+
+# Last page modification
+# Parse Git commit
+enableGitInfo: true
