@@ -1,7 +1,5 @@
 ---
 title: "Introduction to Homebrew and Installation"
-date: 2024-01-20
-weight: 1
 ---
 
 ## What is Homebrew?
