@@ -23,8 +23,9 @@ Run the official installation script:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-> [!WARNING]
-> Always verify installation scripts before running them. You can view the script at [install.sh](https://github.com/Homebrew/install/blob/main/install.sh) before executing.
+{{< callout type="warning" >}}
+Always verify installation scripts before running them. You can view the script at [install.sh](https://github.com/Homebrew/install/blob/main/install.sh) before executing.
+{{< /callout >}}
 
 You will be prompted to enter your password. This is because Homebrew needs to modify your system files. When entering the password, you will not see any characters being typed. This is normal.
 

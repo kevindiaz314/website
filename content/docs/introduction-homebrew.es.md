@@ -23,8 +23,9 @@ Ejecuta el script oficial de instalación:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-> [!WARNING]
-> Siempre verifica los scripts de instalación antes de ejecutarlos. Puedes ver el script en [install.sh](https://github.com/Homebrew/install/blob/main/install.sh) antes de ejecutarlo.
+{{< callout type="warning" >}}
+Siempre verifica los scripts de instalación. Puedes ver el script en [install.sh](https://github.com/Homebrew/install/blob/main/install.sh) antes de ejecutarlo.
+{{< /callout >}}
 
 Se te pedirá que ingreses tu contraseña. Esto es porque Homebrew necesita modificar archivos del sistema. Al ingresar la contraseña, no verás ningún carácter siendo escrito. Esto es normal.
 
