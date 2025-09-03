@@ -9,7 +9,6 @@ defaultContentLanguage: es
 languages:
   es:
     languageName: Español
-    weight: 1
     menu:
       main:
         - name: Docs
@@ -30,7 +29,6 @@ languages:
 
   en:
     languageName: English
-    weight: 2
     menu:
       main:
         - name: Docs

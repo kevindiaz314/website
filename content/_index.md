@@ -1,14 +1,16 @@
 ---
-title: "Welcome to My Personal Website"
+title: "Bienvenido a Mi Sitio Web Personal"
 toc: false
 cascade:
   type: default
---- 
+---
 
-## Hey! I'm Kevin
+## ¡Hola Mundo! Soy Kevin
 
-I'm building this site to document what I learn as a software engineering student and share my knowledge along the way.
+He creado este sitio para documentar lo que aprendo como estudiante de ingeniería de software y compartir mi conocimiento con los demás.
 
-## My Motivations
+## Mis Motivaciones
 
-I have the privilege of being a native Spanish speaker, and I've noticed that the software development world is heavily English-centric. Resources, documentation, and learning materials are predominantly available in English. By creating content in Spanish, I hope to contribute to the Spanish-speaking developer community and help bridge that gap.
+Tengo el privilegio de ser hispanohablante nativo y he notado que el mundo del desarrollo de software está centrado en el inglés.
+Los recursos, la documentación y los materiales de aprendizaje están predominantemente disponibles en ese idioma.
+Al crear contenido en español, espero contribuir a la comunidad de desarrolladores hispanohablantes y ayudar a reducir esa brecha.

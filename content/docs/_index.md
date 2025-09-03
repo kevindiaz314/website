@@ -1,26 +1,26 @@
 ---
-linkTitle: "Documentation"
-title: "Introduction"
+linkTitle: "Documentación"
+title: "Introducción"
 cascade:
   type: docs
 toc: false
 ---
 
-Welcome to the documentation section! Here you'll find guides, tutorials, and references about the tools, services, and self-hosted applications I use.
+¡Bienvenido a la sección de documentación! Aquí encontrarás guías, tutoriales y referencias sobre las herramientas, servicios y aplicaciones auto-hospedadas que utilizo.
 
-## Getting Started
+## Comenzando
 
-- [Introduction to Homebrew and Installation](introduction-homebrew/) - Learn how to install and use the popular package manager for macOS and Linux
+- [Introducción a Homebrew e Instalación](introduction-homebrew/) - Aprende cómo instalar y usar el popular gestor de paquetes para macOS y Linux
 
-## What You'll Find Here
+## Qué Encontrarás Aquí
 
-This documentation covers:
+Esta documentación cubre:
 
-- **Development Tools**: Package managers, version control, IDEs, and more
-- **Self-Hosted Applications**: Guides for deploying and managing your own apps and services using Docker.
-- **Installation Guides**: Step-by-step instructions for setting up your development environment
-- **Best Practices**: Tips and recommendations for efficient development workflows
-- **Troubleshooting**: Common issues and their solutions
+- **Herramientas de Desarrollo**: Gestores de paquetes, control de versiones, IDEs, y más
+- **Aplicaciones Auto-hospedadas**: Guías para desplegar y administrar tus propias aplicaciones y servicios usando Docker
+- **Guías de Instalación**: Instrucciones paso a paso para configurar tu entorno de desarrollo
+- **Mejores Prácticas**: Consejos y recomendaciones para flujos de trabajo de desarrollo eficientes
+- **Resolución de Problemas**: Problemas comunes y sus soluciones
 
 > [!NOTE]
-> This documentation is continuously updated. If you find any issues or have suggestions for improvement, feel free to reach out! 
+> Esta documentación se actualiza continuamente. Si encuentras algún problema o tienes sugerencias para mejorar, ¡no dudes en contactarme! 
