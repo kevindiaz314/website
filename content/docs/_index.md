@@ -11,6 +11,7 @@ toc: false
 ## Comenzando
 
 - [Introducción a Homebrew e Instalación](introduction-homebrew/) - Aprende cómo instalar y usar el popular gestor de paquetes para macOS y Linux
+- [Instalación de Proxmox VE 9](proxmox-installation/) - Guía completa paso a paso para instalar Proxmox Virtual Environment 9
 
 ## Qué Encontrarás Aquí
 
@@ -22,5 +23,6 @@ Esta documentación cubre:
 - **Mejores Prácticas**: Consejos y recomendaciones para flujos de trabajo de desarrollo eficientes
 - **Resolución de Problemas**: Problemas comunes y sus soluciones
 
-> [!NOTE]
-> Esta documentación se actualiza continuamente. Si encuentras algún problema o tienes sugerencias para mejorar, ¡no dudes en contactarme! 
+{{< callout type="info" >}}
+Esta documentación se actualiza constantemente. Si encuentras algún problema o tienes sugerencias para mejorarla, ¡no dudes en contactarme! 
+{{< /callout >}}

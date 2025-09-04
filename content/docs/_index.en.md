@@ -11,6 +11,7 @@ Welcome to the documentation section! Here you'll find guides, tutorials, and re
 ## Getting Started
 
 - [Introduction to Homebrew and Installation](introduction-homebrew/) - Learn how to install and use the popular package manager for macOS and Linux
+- [Installing Proxmox VE 9](proxmox-installation/) - Complete step-by-step guide to install Proxmox Virtual Environment 9
 
 ## What You'll Find Here
 
@@ -22,5 +23,6 @@ This documentation covers:
 - **Best Practices**: Tips and recommendations for efficient development workflows
 - **Troubleshooting**: Common issues and their solutions
 
-> [!NOTE]
-> This documentation is continuously updated. If you find any issues or have suggestions for improvement, feel free to reach out! 
+{{< callout type="info" >}}
+This documentation is continuously updated. If you find any issues or have suggestions for improvement, feel free to reach out! 
+{{< /callout >}}
