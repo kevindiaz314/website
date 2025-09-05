@@ -1,6 +1,7 @@
 ---
 title: "Instalación de Proxmox VE 9"
 linkTitle: "Instalación de Proxmox VE 9"
+weight: 2
 ---
 
 Proxmox Virtual Environment (Proxmox VE) es una plataforma de virtualización de código abierto que combina virtualización de contenedores y virtualización completa. Esta guía te acompaña paso a paso durante el proceso de instalación de Proxmox VE 9.
@@ -128,10 +129,10 @@ Inicia sesión usando:
 - **Nombre de usuario**: `root`
 - **Contraseña**: La contraseña que configuraste durante la instalación
 
-## Próximos Pasos
+## Configuración Post-Instalación
 
-1. **Actualizar el sistema**: Ejecuta actualizaciones del sistema a través de la interfaz web
-2. **Configurar almacenamiento**: Configura almacenamiento adicional si es necesario
-3. **Crear máquinas virtuales**: Comienza a desplegar tus VMs y contenedores
-4. **Configuración de red**: Configura redes adicionales si es requerido
-5. **Configuración de respaldos**: Configura estrategias de respaldo (Backup) para tus máquinas virtuales
+Ahora que has instalado Proxmox VE, puedes proceder a la configuración [post-instalación](../proxmox-post-installation/).
+
+{{< callout type="important" >}}
+**¡No te saltes esta configuración!** La guía cubre pasos de configuración esenciales incluyendo configuración de repositorios, gestión de suscripciones y optimización del sistema que son cruciales para una instalación de Proxmox VE que funcione apropiadamente.
+{{< /callout >}}

@@ -12,6 +12,7 @@ Welcome to the documentation section! Here you'll find guides, tutorials, and re
 
 - [Introduction to Homebrew and Installation](introduction-homebrew/) - Learn how to install and use the popular package manager for macOS and Linux
 - [Installing Proxmox VE 9](proxmox-installation/) - Complete step-by-step guide to install Proxmox Virtual Environment 9
+- [Proxmox VE Post-Installation Setup](proxmox-post-installation/) - Essential configuration steps after installing Proxmox VE 9
 
 ## What You'll Find Here
 

@@ -1,5 +1,6 @@
 ---
 title: "Introduction to Homebrew and Installation"
+weight: 1
 ---
 
 ## What is Homebrew?
