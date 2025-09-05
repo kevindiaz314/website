@@ -56,7 +56,7 @@ params:
   # Page edit URL for GitHub
   editURL:
     enable: true
-    base: "https://github.com/kevindiaz314/website/edit/main"
+    base: "https://github.com/kevindiaz314/website/edit/main/content"
 
   # Display the last modification date
   displayUpdatedDate: true
