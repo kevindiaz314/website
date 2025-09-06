@@ -13,6 +13,7 @@ toc: false
 - [Introducción a Homebrew e Instalación](introduction-homebrew/) - Aprende cómo instalar y usar el popular gestor de paquetes para macOS y Linux
 - [Instalación de Proxmox VE 9](proxmox-installation/) - Guía completa paso a paso para instalar Proxmox Virtual Environment 9
 - [Configuración Post-Instalación de Proxmox VE](proxmox-post-installation/) - Pasos de configuración esenciales después de instalar Proxmox VE 9
+ - [Post‑instalación de TrueNAS SCALE 25.10](truenas-post-installation/) - Cómo configuro TrueNAS después de instalarlo
 
 ## Qué Encontrarás Aquí
 
