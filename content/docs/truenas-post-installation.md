@@ -141,10 +141,6 @@ Guía de configuración de Email (SMTP): próximamente.
 
 ## Primera app: Portainer
 
-Instalo Portainer primero. Publicaré la guía paso a paso de instalación de apps en TrueNAS por separado y la enlazaré aquí.
+Instalo Portainer primero como mi interfaz de administración de contenedores. La configuración incluye vinculación de IP para una experiencia de homelab más limpia.
 
-{{< callout type="info" >}}
-Guía de Portainer en TrueNAS: próximamente.
-{{< /callout >}}
-
-
+Revisa la [guía de instalación de Portainer](../portainer-installation/) para instrucciones detalladas paso a paso.

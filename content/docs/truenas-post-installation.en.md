@@ -139,10 +139,6 @@ Email (SMTP) setup guide: coming soon.
 
 ## First App: Portainer
 
-I install Portainer first. I’ll publish the step‑by‑step app installation on TrueNAS separately and link it here.
+I install Portainer first as my container management interface. The setup includes IP binding for a cleaner homelab experience.
 
-{{< callout type="info" >}}
-Portainer on TrueNAS guide: coming soon.
-{{< /callout >}}
-
-
+Check out the [Portainer installation guide](../portainer-installation/) for detailed step-by-step instructions.
