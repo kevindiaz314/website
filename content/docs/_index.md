@@ -15,6 +15,7 @@ toc: false
 - [Configuración Post-Instalación de Proxmox VE](proxmox-post-installation/) - Pasos de configuración esenciales después de instalar Proxmox VE 9
 - [Post‑instalación de TrueNAS SCALE 25.10](truenas-post-installation/) - Cómo configuro TrueNAS después de instalarlo
 - [Instalando Portainer en TrueNAS con Vinculación de IP](portainer-installation/) - Configurar Portainer con dirección IP dedicada para una gestión de homelab más limpia
+- [Instalación de Nextcloud All-in-One en TrueNAS](nextcloud/) - Guía completa para instalar Nextcloud AIO con Docker, incluyendo configuración de reverse proxy y buenas prácticas de seguridad
 
 ## Qué Encontrarás Aquí
 

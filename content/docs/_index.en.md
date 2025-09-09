@@ -15,6 +15,7 @@ Welcome to the documentation section! Here you'll find guides, tutorials, and re
 - [Proxmox VE Post-Installation Setup](proxmox-post-installation/) - Essential configuration steps after installing Proxmox VE 9
 - [TrueNAS SCALE 25.10 Post-Installation](truenas-post-installation/) - How I configure TrueNAS after installation
 - [Installing Portainer on TrueNAS with IP Binding](portainer-installation/) - Set up Portainer with dedicated IP address for cleaner homelab management
+- [Installing Nextcloud All-in-One on TrueNAS](nextcloud/) - Complete guide to install Nextcloud AIO with Docker, including reverse proxy configuration and security best practices
 
 ## What You'll Find Here
 
